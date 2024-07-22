@@ -12,3 +12,7 @@ This project is a computer vision based project which aims to provide a medium f
 The data is created using the datacapture.py module by creating a set of directories beforehand according to the destination address.
 On Collecting the data use the google teachable machine paltform to train the tensorflow.js model for prediction
 implement the tfjs model in a bootstrap template to complete the project
+
+ Asophisticated application is designed to facilitate effective communication for individuals with hearing
+ impairment. It serves as a valuable medium for enhancing their interaction and engagement.
+ It aims to provide an efficient and accurate way to convert sign language into text or audio.
